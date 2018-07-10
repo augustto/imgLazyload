@@ -1,2 +1,2 @@
 # imgLazyload
-optimize site rendering with many uploaded images
+optimize site rendering with many images
